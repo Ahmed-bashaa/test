@@ -1,0 +1,68 @@
+/* img
+{
+  width: 10%;
+position: absolute;
+top: 0;
+left: 0;
+} */
+
+/* .minDiv
+{
+background-image: url(imgs/meal-1.jpg);
+width: 50%;
+height: 400px;
+margin: auto;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+}
+
+img
+{
+  cursor: pointer;
+} */
+
+body
+{
+    font-family: "segoe ui light";
+}
+
+.item-caption
+{
+    bottom: 15%;
+    width: 80%;
+    left: 10%;
+}
+
+img
+{
+    cursor: pointer;
+}
+
+.layerParent
+{
+    z-index: 99999999;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.layerContent
+{
+    width: 50%;
+    height: 500px;
+    background-image: url(portfolio-1.jpg);
+    background-size: 100% 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
